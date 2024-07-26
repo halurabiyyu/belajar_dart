@@ -8,4 +8,6 @@ int factorialRecursive(int value){
 
 void main(List<String> args) {
   print(factorialRecursive(10));
+  print(factorialRecursive(10));
+  print(factorialRecursive(10));
 }
